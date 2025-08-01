@@ -11,7 +11,6 @@ public class FunAddNum {
         int b = sc.nextInt();
         int result = add(a,b);
         System.out.println("your result is : " + result);
-
     }
 
     //function to return the sum of two number as integers
