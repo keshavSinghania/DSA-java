@@ -1,6 +1,6 @@
 package day4_LinearAlgoArray;
 
-//to find to number of even digits elements present inside an given array
+//to find to number of even digits elements present inside a given array
 public class noOFEven {
     public static void main(String[] args) {
         int[] arr = {12,434,24,324,5456,466666,2710};//5
