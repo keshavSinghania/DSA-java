@@ -3,7 +3,7 @@ package day6_BInarySearchpart2;
 public class CeilingOfNumber {
     public static void main(String[] args) {
         int[] arr = {2,5,7,8,9,11};
-        int target = 12; //look for greater smallest number
+        int target = 1; //look for greater smallest number
         System.out.println(findCeiling(arr,target));
     }
 
@@ -25,6 +25,6 @@ public class CeilingOfNumber {
             }
             mid = start + (end - start)/2;
         }
-        return arr[start];
+        return arr[mid];
     }
 }
