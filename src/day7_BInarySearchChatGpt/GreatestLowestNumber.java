@@ -1,4 +1,4 @@
-public class StrictlyGreaterElement {
+public class GreatestLowestNumber {
     public static void main(String[] args) {
         int[] arr = {2, 3, 5, 7, 11, 13, 17};
         int target = 17; // try 13, 1, 18 etc.
