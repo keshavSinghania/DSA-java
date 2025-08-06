@@ -3,8 +3,8 @@ package day7_BInarySearchChatGpt;
 public class SearchInRotatedSortedArray {
     public static void main(String[] args) {
 //        int[] arr = {12,15,17,1,2,4,5,6,8,9};
-        int[] arr = {1,2};
-        int target = 2;
+        int[] arr = {2,5,6,0,0,1,2};
+        int target = 0;
         System.out.println(search(arr,target));
     }
     //function to search element in rotated sorted array
