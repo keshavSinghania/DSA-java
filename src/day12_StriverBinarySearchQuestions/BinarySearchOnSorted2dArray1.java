@@ -1,6 +1,6 @@
 package day12_StriverBinarySearchQuestions;
 
-public class BinarySearchInSorted2dArray1 {
+public class BinarySearchOnSorted2dArray1 {
 }
 
 //https://leetcode.com/problems/search-a-2d-matrix/
